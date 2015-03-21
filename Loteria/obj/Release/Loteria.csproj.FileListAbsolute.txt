@@ -1,0 +1,5 @@
+C:\Users\JaimeA\Documents\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.dll
+C:\Users\JaimeA\Documents\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\bin\Loteria.pdb
+C:\Users\JaimeA\Documents\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.csprojResolveAssemblyReference.cache
+C:\Users\JaimeA\Documents\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.dll
+C:\Users\JaimeA\Documents\2015_1_cuatrimestre_progra3\Clases\Clase 17\Loteria\Loteria\obj\Release\Loteria.pdb
